@@ -5,4 +5,4 @@ experimental project
 
 File|Build Status
 ---|---
-hello.c[![Build Status](https://travis-ci.com/zhugu/hello-world.svg?branch=master)](https://travis-ci.com/zhugu/hello-world)
+hello.c|[![Build Status](https://travis-ci.com/zhugu/hello-world.svg?branch=master)](https://travis-ci.com/zhugu/hello-world)
