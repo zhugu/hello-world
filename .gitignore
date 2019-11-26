@@ -11,3 +11,4 @@ x86/
 *.log
 *.exe
 *.dll
+*.vs
